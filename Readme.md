@@ -6,7 +6,7 @@ This repository contains **Dockerfile** of [Ruby](https://www.ruby-lang.org/) fo
 
 ### Dependencies
 
-* [dockerfile/ubuntu](http://dockerfile.github.io/#/ubuntu) using 12.04
+* [dockerfile/ubuntu](http://dockerfile.github.io/#/ubuntu) using 12.04.5
 
 
 ### Installation

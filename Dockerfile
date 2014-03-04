@@ -2,11 +2,10 @@
 #
 # VERSION               0.1
 
-FROM ubuntu:12.04
+FROM ubuntu:12.04.4
 MAINTAINER Geoffroy Lesage
 
 RUN apt-get update
-RUN apt-get upgrade -y
 RUN apt-get install -y build-essential zlib1g-dev libssl-dev libreadline6-dev libyaml-dev
 
 ADD http://ftp.ruby-lang.org/pub/ruby/2.1/ruby-2.1.1.tar.gz /tmp/
