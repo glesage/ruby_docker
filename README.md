@@ -1,5 +1,5 @@
-## Ruby 2.1.1 Dockerfile
-
+Ruby 2.1.1 Dockerfile
+=====================
 
 This repository contains **Dockerfile** of [Ruby](https://www.ruby-lang.org/) for [Docker](https://www.docker.io/) published to the public [Docker Registry](https://index.docker.io/).
 
